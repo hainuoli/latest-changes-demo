@@ -1,0 +1,10 @@
+commit-title: "📝 Update release notes"
+auto-labels:
+  docs:
+    - docs/**
+    - README*.md
+  upgrade:
+    - go.mod
+    - go.sum
+  internal:
+    - .github/**

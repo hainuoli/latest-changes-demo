@@ -1,4 +1,5 @@
 commit-title: "📝 Update release notes"
+label-from-title: true
 auto-labels:
   docs:
     - docs/**
